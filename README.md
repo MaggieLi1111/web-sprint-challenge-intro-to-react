@@ -93,4 +93,4 @@ It is data that is being passed down through the component.
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
 
 A side effect is anything that affects something outside the scope of the function being executed. Fetching data from an API, timers, logging, and manually manipulating the DOM are all examples of side effects. 
- Side effect allows us to pull data or change data when the component props get changed or used. Allowing for a interactive web page.
+Side effect allows us to pull data or change data when the component props get changed or used. Allowing for a interactive web page.

@@ -39,10 +39,13 @@ const Characters = props => {
                     return (
                         <Cards key={p.name} >
                             <h2>{p.name}</h2>
+                            <p>Gender: {p.gender}</p>
                             <p>Height: {p.height}</p>
                             <p>Mass: {p.mass}</p>
-                            <p>Gender: {p.gender}</p>
+                            <p>BirthYear: {p.birth_year}</p>
+                            <p>Eye Color: {p.eye_color}</p>
                             <p>Hair Color: {p.hair_color}</p>
+                            <p>Skin Color: {p.skin_color}</p>
                         </Cards>
                     )
                 })
