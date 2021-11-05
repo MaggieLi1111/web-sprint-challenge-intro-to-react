@@ -28,7 +28,7 @@ h2 {
 }
 `
 
-const Characters = props => {
+const Character = props => {
 
     const {characters} = props;
 
@@ -54,4 +54,4 @@ const Characters = props => {
         </Container>
     )
 }
-export default Characters;
+export default Character;
