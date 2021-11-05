@@ -11,7 +11,7 @@ justify-content: space-between;
 div:hover{
     transition: 1s ease-in-out;
     transform:scale(1.3) rotate(720deg);
-    background-color: rgba(5-,0,150,0.9);
+    background-color: rgba(100,0,150,0.9);
 }`
 
 
