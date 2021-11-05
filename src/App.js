@@ -34,7 +34,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <Header className="Header">Characters</Header>
+      <Header className="Header">STAR WARS MAJOR CHARACTERS</Header>
       <Character characters={characters}/>      
     </div>
   );

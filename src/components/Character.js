@@ -15,7 +15,7 @@ div:hover{
 }`
 
 
-const Cards =styled.div`
+const Cards = styled.div`
 border: 2px solid black;
 width: 30%;
 min-width: 200px;
